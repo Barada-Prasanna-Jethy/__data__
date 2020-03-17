@@ -1,13 +1,15 @@
 [
   {
     "id": 1,
-    "name": "Watch dogs 2",
-    "url": "https://en.wikipedia.org/wiki/Watch_Dogs_2#/media/File:Watch_Dogs_2.jpg"
+    "name": "Watch dogs",
+    "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Watch_Dogs_box_art.jpg",
+    "brand":"Ubisoft"
   },
   {
     "id": 2,
-    "name": "Call of duty Black ops 4",
-    "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_4#/media/File:Call_of_Duty_Black_Ops_4_official_box_art.jpg"
+    "name": "Call of duty ghosts",
+    "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Call_of_duty_ghosts_box_art.jpg",
+    "brand":"Activision"
   },
   {
     "id": 3,
