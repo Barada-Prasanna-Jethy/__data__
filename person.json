@@ -22,29 +22,5 @@
     "name": "The Division",
     "url": "https://upload.wikimedia.org/wikipedia/en/0/03/The_Division_box.jpg",
     "brand":"Ubisoft"
-  },
-  {
-    "id": 5,
-    "name": "Assassin's creed",
-    "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg",
-    "brand":"Ubisoft"
-  },
-   {
-    "id": 6,
-    "name": "Destiny",
-    "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Destiny_XBO.jpg",
-    "brand":"Activision"
-  },
-  {
-    "id": 7,
-    "name": "Prototype",
-    "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/PROTOTYPE.png",
-    "brand":"Activision"
-  },
-  {
-    "id": 8,
-    "name": "Sekiro",
-    "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
-    "brand":"Activision"
   }
 ]
