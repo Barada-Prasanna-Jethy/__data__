@@ -1,5 +1,27 @@
-[{id:1,name:'Watch dogs 2',url:'https://en.wikipedia.org/wiki/Watch_Dogs_2#/media/File:Watch_Dogs_2.jpg'},
-{id:2,name:'Call of duty Black ops 4',url:'https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_4#/media/File:Call_of_Duty_Black_Ops_4_official_box_art.jpg'}
-,{id:3,name:'Far cry 5',url:'https://en.wikipedia.org/wiki/Far_Cry_5#/media/File:Far_Cry_5_boxshot.jpg'},
-{id:4,name:'The Division',url:'https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division#/media/File:The_Division_box.jpg'},
-{id:5,name:'Assassin's creed',url:'https://en.wikipedia.org/wiki/Assassin%27s_Creed_(video_game)#/media/File:Assassin's_Creed.jpg'}]
+[
+  {
+    "id": 1,
+    "name": "Watch dogs 2",
+    "url": "https://en.wikipedia.org/wiki/Watch_Dogs_2#/media/File:Watch_Dogs_2.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Call of duty Black ops 4",
+    "url": "https://en.wikipedia.org/wiki/Call_of_Duty:_Black_Ops_4#/media/File:Call_of_Duty_Black_Ops_4_official_box_art.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Far cry 5",
+    "url": "https://en.wikipedia.org/wiki/Far_Cry_5#/media/File:Far_Cry_5_boxshot.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Division",
+    "url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_The_Division#/media/File:The_Division_box.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Assassin's creed",
+    "url": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_(video_game)#/media/File:Assassin's_Creed.jpg"
+  }
+]
