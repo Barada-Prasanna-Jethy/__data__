@@ -46,5 +46,29 @@
     "name": "Sekiro",
     "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
     "brand": "Activision"
+  },
+   {
+    "id": 9,
+    "name": "Red dead redumption 2",
+    "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
+    "brand": "Rockstar Games"
+  },
+   {
+    "id": 10,
+    "name": "Grand Theft Auto 5 (GTA V)",
+    "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+    "brand": "Rockstar Games"
+  },
+   {
+    "id":11,
+    "name": "Max Pane 3",
+    "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Max_Payne_3_Cover.jpg",
+    "brand": "Rockstar Games"
+  },
+   {
+    "id": 12,
+    "name": "Grand Theft:Vice City",
+    "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Vice-city-cover.jpg",
+    "brand": "Rockstar Games"
   }
 ]
