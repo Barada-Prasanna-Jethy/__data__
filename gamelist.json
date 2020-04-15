@@ -3,72 +3,84 @@
     "id": 1,
     "name": "Watch dogs",
     "url": "https://upload.wikimedia.org/wikipedia/en/d/d9/Watch_Dogs_box_art.jpg",
-    "brand":"Ubisoft"
+    "brand":"Ubisoft",
+    "details":"asda"
   },
   {
     "id": 2,
     "name": "Call of duty ghosts",
     "url": "https://upload.wikimedia.org/wikipedia/en/9/9c/Call_of_duty_ghosts_box_art.jpg",
-    "brand":"Activision"
+    "brand":"Activision",
+    "details":"asda"
   },
   {
     "id": 3,
     "name": "Far cry 5",
     "url": "https://upload.wikimedia.org/wikipedia/en/0/03/Far_Cry_5_boxshot.jpg",
-    "brand":"Ubisoft"
+    "brand":"Ubisoft",
+    "details":"asda"
   },
   {
     "id": 4,
     "name": "The Division",
     "url": "https://upload.wikimedia.org/wikipedia/en/0/03/The_Division_box.jpg",
-    "brand":"Ubisoft"
+    "brand":"Ubisoft",
+    "details":"asda"
   },
   {
     "id": 5,
     "name": "Assassin's creed",
     "url": "https://upload.wikimedia.org/wikipedia/en/5/52/Assassin%27s_Creed.jpg",
-    "brand": "Ubisoft"
+    "brand": "Ubisoft",
+    "details":"asda"
   },
   {
     "id": 6,
     "name": "Destiny",
     "url": "https://upload.wikimedia.org/wikipedia/en/0/06/Destiny_XBO.jpg",
-    "brand": "Activision"
+    "brand": "Activision",
+    "details":"asda"
   },
   {
     "id": 7,
     "name": "Prototype",
     "url": "https://upload.wikimedia.org/wikipedia/en/b/b2/PROTOTYPE.png",
-    "brand": "Activision"
+    "brand": "Activision",
+    "details":"asda"
   },
   {
     "id": 8,
     "name": "Sekiro",
     "url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Sekiro_art.jpg",
-    "brand": "Activision"
+    "brand": "Activision",
+    "details":"asda"
   },
    {
     "id": 9,
     "name": "Red dead redumption 2",
     "url": "https://upload.wikimedia.org/wikipedia/en/4/44/Red_Dead_Redemption_II.jpg",
-    "brand": "Rockstar Games"
+    "brand": "Rockstar Games",
+    "details":"asda"
   },
    {
     "id": 10,
     "name": "Grand Theft Auto 5 (GTA V)",
     "url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
-    "brand": "Rockstar Games"
+    "brand": "Rockstar Games",
+    "details":"asda"
   },
    {
     "id":11,
     "name": "Max Pane 3",
     "url": "https://upload.wikimedia.org/wikipedia/en/2/21/Max_Payne_3_Cover.jpg",
-    "brand": "Rockstar Games"
+    "brand": "Rockstar Games",
+    "details":"asda"
   },
    {
     "id": 12,
     "name": "Grand Theft:Vice City",
     "url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Vice-city-cover.jpg",
-    "brand": "Rockstar Games"
+    "brand": "Rockstar Games",
+    "details":"asda"
   }
 ]
